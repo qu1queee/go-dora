@@ -1,0 +1,6 @@
+REQUEST: [2020-01-27T14:29:59+01:00]
+GET /v2/info HTTP/1.1
+Host: api.bcfdmzrdevelop-934906-1a6da7dfce829d78438334a324fa7844-0001.us-south.containers.appdomain.cloud
+Accept: application/json
+User-Agent: cf/6.48.0+ca3deaa94.2019-12-04 (go1.12.12; amd64 darwin)
+
